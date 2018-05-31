@@ -1,0 +1,3 @@
+module ErrorHandler
+  VERSION = "0.1.0"
+end
